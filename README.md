@@ -1,2 +1,1 @@
-# C-Intro
-this will make a conflict
+the conflict is resolved
